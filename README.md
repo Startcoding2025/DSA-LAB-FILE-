@@ -38,3 +38,4 @@ Array elements are:
 
 
 
+//QN-2 Suppose there are 20 students in class. Enter marks of the student (max marks
